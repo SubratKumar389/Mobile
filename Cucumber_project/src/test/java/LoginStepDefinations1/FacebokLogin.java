@@ -21,7 +21,7 @@ public class FacebokLogin {
 	@Given("Enter validate the URL")
 	public void enter_validate_the_url() {
 		driver.get("https://www.facebook.com/");
-	}
+	}//subrat ku sahu389
 
 	@When("Enter the validate username and password")
 	public void enter_the_validate_username_and_password() {
