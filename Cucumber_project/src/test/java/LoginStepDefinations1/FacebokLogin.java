@@ -17,7 +17,7 @@ public class FacebokLogin {
 		WebDriverManager.chromedriver().setup();
 		driver=new ChromeDriver();
 	}
-
+//subrat kumar
 	@Given("Enter validate the URL")
 	public void enter_validate_the_url() {
 		driver.get("https://www.facebook.com/");
